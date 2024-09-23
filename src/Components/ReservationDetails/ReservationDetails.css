@@ -1,0 +1,41 @@
+.ReservationDetails{
+    margin-top:100px;
+    margin-left: 23.2%;
+    /* background-color:lightsalmon; */
+    height: 100%;
+    display: inline;
+    width:75%;
+    flex-direction: column-reverse;
+    display: flex;
+    
+
+}
+.Reservation-table-container{
+  overflow: hidden auto;
+} 
+
+
+.Reservation-table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+.Reservation-td-th {
+  border: 1px solid #474747;
+  text-align: left;
+  padding: 8px;
+}
+
+.Reservation-tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.confirm {
+  color: green; /* or any other styles for confirmed status */
+}
+
+.pending {
+  color: orange; /* or any other styles for pending status */
+}
+

@@ -1,0 +1,10 @@
+.page-wrapper{
+    /* margin-top: px; */
+    /* background-color: aqua; */
+    height: 100%;
+}
+@media (max-width: 480px){
+    .page-wrapper{
+    width: 100%;
+    }
+}

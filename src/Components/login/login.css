@@ -1,0 +1,87 @@
+.blur{
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(5px);
+}
+
+.admin-login-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    /* margin-bottom: 20px; */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.bt234 {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.bt234:hover {
+    background-color: #0056b3;
+}
+.admin-login-container {
+    /* Existing styles */
+}
+
+.login-logo {
+    width: 100px; /* Adjust the width as needed */
+    margin-top: 10px;
+    margin-left: 130px; 
+}
+
+.password-input-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.password-toggle-icon {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    color: #666; /* Change this to your preferred icon color */
+}
+
+
+

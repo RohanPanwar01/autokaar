@@ -1,0 +1,142 @@
+/* General styles for Guest Review */
+.GuestReview {
+  margin: 0 auto; /* Center the GuestReview container */
+  background-color: white;
+  height: 400px;
+  overflow: auto;
+  width: 50%;
+  padding: 10px 10px 20px 10px;
+}
+
+.GuestReviewp {
+  font-size: 25px;
+  font-weight: 500;
+  border-bottom: 1px dashed blue;
+  width: 100%;
+}
+
+/* Profile container and its elements */
+.profile-container {
+  display: flex;
+  align-items: center;
+  margin-top: 3%;
+}
+
+.profile-image {
+  border-radius: 50%;
+  width: 50px; /* Adjust the size as needed */
+  height: 50px; /* Adjust the size as needed */
+  object-fit: cover;
+}
+
+.profile-name {
+  font-weight: bold;
+  color: blue;
+  margin-left: 7%;
+}
+
+.GuestReviewreport {
+  font-size: 1rem;
+  font-weight: 400;
+  color: gray;
+}
+
+/* Star rating styles */
+.star-rating {
+  margin-left: auto; /* Push stars to the right */
+  display: flex;
+  align-items: center;
+}
+
+.star-filled,
+.star-empty {
+  font-size: 20px;
+  margin-left: 3px; /* Adjust the space between stars */
+}
+
+.star-filled {
+  color: black;
+}
+
+.star-empty {
+  color: white;
+}
+
+/* Responsive styles */
+@media (max-width: 1024px) {
+  .GuestReview {
+    width: 70%;
+  }
+
+  .GuestReviewp {
+    font-size: 22px;
+  }
+
+  .profile-name {
+    margin-left: 5%;
+  }
+
+  .star-rating {
+    font-size: 1.2rem;
+  }
+
+  .star-filled,
+  .star-empty {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .GuestReview {
+    width: 90%;
+  }
+
+  .GuestReviewp {
+    font-size: 20px;
+  }
+
+  .profile-name {
+    margin-left: 3%;
+  }
+
+  .star-rating {
+    font-size: 1rem;
+  }
+
+  .star-filled,
+  .star-empty {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .profile-container{
+    flex-direction: column;
+    text-align: center;
+    align-items: flex-start;
+  }
+  .profile-image{
+    position: relative;
+    left:20px;
+  }
+  .GuestReview {
+    width: 100%;
+  }
+
+  .GuestReviewp {
+    font-size: 18px;
+  }
+
+  .profile-name {
+    margin-left:2%;
+  }
+
+  .star-rating {
+    font-size: 0.8rem;
+  }
+
+  .star-filled,
+  .star-empty {
+    font-size: 14px;
+  }
+}

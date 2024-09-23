@@ -1,0 +1,104 @@
+.containeruser{
+    width:100%;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+
+  }
+  
+  .FormLabel {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* .FormInput {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    flex-direction: row;
+  } */
+  
+  .UserEditButtons {
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: row; */
+  }
+  
+  .SaveButton, .CancelButton {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .SaveButton {
+    background-color: blue;
+    color: white;
+    width: 100px;
+
+  }
+  
+  .CancelButton {
+    background-color: #f44336;
+    color: white;
+    width: 100px;
+  }
+  
+  /* body {
+    background: rgb(99, 39, 120)
+} */
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #0004e2;
+}
+
+.profile-button {
+    background: #0004e2;
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #0004e2
+}
+
+.profile-button:focus {
+    background: #0004e2;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #0004e2;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #0004e2;
+    cursor: pointer
+}
+
+.labels {
+    font-size: 11px
+}
+
+.add-experience:hover {
+    background: #BA68C8;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #BA68C8
+}
+/* .containeruser{
+  margin-top: 30%;
+} */
+.userright{
+  font-size: 30px;
+  font-weight: bold;
+  /* background:linear-gradient ( 100deg   , #333); */
+  background:linear-gradient(100deg, rgb(0, 247, 255), blue);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

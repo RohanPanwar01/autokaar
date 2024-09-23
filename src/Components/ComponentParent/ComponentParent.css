@@ -1,0 +1,1209 @@
+.ComponentParent-magic-star-icon {
+  left: 370px;
+}
+.ComponentParent-magic-star-icon,
+.ComponentParent-magic-star-icon1,
+.ComponentParent-magic-star-icon2,
+.ComponentParent-magic-star-icon3,
+.ComponentParent-magic-star-icon4 {
+  height: 25.5px;
+  width: 27.1px;
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  object-fit: contain;
+}
+.ComponentParent-magic-star-icon1 {
+  left: 389.2px;
+  z-index: 1;
+}
+.ComponentParent-magic-star-icon2,
+.ComponentParent-magic-star-icon3,
+.ComponentParent-magic-star-icon4 {
+  right: 395.5px;
+  z-index: 2;
+}
+.ComponentParent-magic-star-icon3,
+.ComponentParent-magic-star-icon4 {
+  right: 376.4px;
+  z-index: 3;
+}
+.ComponentParent-magic-star-icon4 {
+  right: 357.2px;
+  z-index: 4;
+}
+.ComponentParent-latimer-grand-oaks {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 111%;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.ComponentParent-antigua-and-barbuda {
+  height: 27px;
+  width: 28px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ComponentParent-antiguaunguja {
+  position: relative;
+}
+.ComponentParent-icon {
+  flex-direction: column;
+  padding: 3px 0 0;
+}
+.ComponentParent-antigua-and-barbuda-parent,
+.ComponentParent-icon,
+.ComponentParent-latimer-grand-oaks-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ComponentParent-antigua-and-barbuda-parent {
+  flex-direction: row;
+  gap: 14px;
+  font-size: 14px;
+  color: #111827;
+}
+.ComponentParent-latimer-grand-oaks-parent {
+  width: 348px;
+  flex-direction: column;
+  gap: 23px;
+  max-width: 100%;
+}
+.ComponentParent-recent {
+  position: relative;
+  line-height: 111%;
+  white-space: nowrap;
+  z-index: 5;
+}
+.ComponentParent-actionview-carousel-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ComponentParent-beach-view {
+  position: relative;
+  line-height: 111%;
+  white-space: nowrap;
+}
+.ComponentParent-actionview-carousel-parent,
+.ComponentParent-reviews {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.ComponentParent-actionview-carousel-parent {
+  justify-content: flex-start;
+  gap: 5px;
+  color: #f15a29;
+}
+.ComponentParent-reviews {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.ComponentParent-frame-parent4,
+.ComponentParent-reviews-parent,
+.ComponentParent-reviews-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.ComponentParent-reviews-wrapper {
+  width: 357px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 13px 0 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  color: #111827;
+}
+.ComponentParent-frame-parent4,
+.ComponentParent-reviews-parent {
+  flex-direction: row;
+}
+.ComponentParent-frame-parent4 {
+  flex: 1;
+  justify-content: space-between;
+  min-height: 91px;
+  gap: 20px;
+}
+.ComponentParent-reviews-parent {
+  align-self: stretch;
+  justify-content: flex-start;
+  position: relative;
+  text-align: left;
+  font-size: 34px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+}
+.ComponentParent-location-point-icon {
+  height: 24px;
+  width: 25px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ComponentParent-thornridge-cir-syracuse {
+  flex: 1;
+  position: relative;
+  line-height: 111%;
+  display: inline-block;
+  max-width: calc(100% - 39px);
+}
+.ComponentParent-location-point-parent {
+  width: 386px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+.ComponentParent-bx-group-icon {
+  height: 24px;
+  width: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ComponentParent-bx-group-icon,
+.ComponentParent-people {
+  position: relative;
+}
+.ComponentParent-bx-group-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 25px 0 0;
+  gap: 9px;
+}
+.ComponentParent-bed-icon {
+  height: 24px;
+  width: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ComponentParent-bed-icon,
+.ComponentParent-bedroom {
+  position: relative;
+}
+.ComponentParent-bed-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.ComponentParent-bathtub-icon {
+  height: 24px;
+  width: 26px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ComponentParent-bathroom,
+.ComponentParent-bathtub-icon {
+  position: relative;
+}
+.ComponentParent-bathtub-parent,
+.ComponentParent-frame-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.ComponentParent-frame-parent6 {
+  gap: 23px;
+  min-height: 25px;
+}
+.ComponentParent-frame-parent5,
+.ComponentParent-yaroslove-k {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ComponentParent-frame-parent5 {
+  flex-direction: column;
+  padding: 0 1px 0 0;
+  gap: 22px;
+}
+.ComponentParent-yaroslove-k {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 3px;
+  min-height: 84px;
+  font-size: 14px;
+  color: #111827;
+}
+.ComponentParent-frame-inner {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.ComponentParent-john-doe {
+  position: relative;
+  line-height: 111%;
+}
+.ComponentParent-ellipse-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.ComponentParent-rectangle-div {
+  height: 39px;
+  width: 107px;
+  position: relative;
+  border-radius: 10px;
+  border: 1.5px solid #56bbff;
+  box-sizing: border-box;
+  display: none;
+}
+.ComponentParent-message {
+  position: relative;
+  font-weight: 600;
+  background: linear-gradient(95.31deg, #56bbff, #5bf 0.01%, #061beb);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  z-index: 1;
+}
+.ComponentParent-rectangle-group {
+  width: 107px;
+  border-radius: 10px;
+  border: 1.5px solid #56bbff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 20px 11px 16px;
+}
+.ComponentParent-frame-parent8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.ComponentParent-vector-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ComponentParent-frame-parent7 {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+  min-height: 69px;
+  max-width: 100%;
+  font-size: 16px;
+}
+.ComponentParent-description {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-blank-line,
+.ComponentParent-blank-line1,
+.ComponentParent-blank-line2,
+.ComponentParent-inside-the-homes,
+.ComponentParent-located-in-pacific,
+.ComponentParent-the-perfect-home,
+.ComponentParent-with-its-clean {
+  margin: 0;
+}
+.ComponentParent-with-its-clean-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 111%;
+  color: #6b7280;
+}
+.ComponentParent-description-parent {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 22px;
+  min-height: 282px;
+  max-width: 100%;
+}
+.ComponentParent-extra-services,
+.ComponentParent-rafting {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-div {
+  width: 84px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-exotic-food {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-div1 {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 14px 15px 17px;
+  white-space: nowrap;
+}
+.ComponentParent-pick-and-drop {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-div2 {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 14px 15px 17px;
+  white-space: nowrap;
+}
+.ComponentParent-bbq {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-div3 {
+  width: 66px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-breakfast {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-div4 {
+  width: 100px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-availablity-calendar-april,
+.ComponentParent-parent,
+.ComponentParent-scroll-bar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ComponentParent-parent {
+  flex-direction: row;
+  gap: 13px;
+  font-size: 14px;
+  color: #6b7280;
+}
+.ComponentParent-availablity-calendar-april,
+.ComponentParent-scroll-bar {
+  max-width: 100%;
+}
+.ComponentParent-scroll-bar {
+  flex-direction: column;
+  gap: 23px;
+}
+.ComponentParent-availablity-calendar-april {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 29px;
+  box-sizing: border-box;
+}
+.ComponentParent-amenties {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-frame-child1 {
+  height: 48px;
+  width: 61px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: none;
+}
+.ComponentParent-wifi {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.ComponentParent-rectangle-container {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 19px 15px 17px;
+}
+.ComponentParent-march-container-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px 0 0;
+}
+.ComponentParent-washer {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-icon-frame {
+  width: 85px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-kitchen {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-icon-frame1 {
+  width: 86px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-dryer {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-icon-frame2 {
+  width: 71px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-air-conditioning {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-icon-frame3 {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 14px 15px 17px;
+  white-space: nowrap;
+}
+.ComponentParent-heating {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-icon-frame4 {
+  width: 88px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-dedicated-workspace {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-icon-frame5 {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 13px 15px 17px;
+  white-space: nowrap;
+}
+.ComponentParent-amenties-parent,
+.ComponentParent-frame-wrapper3,
+.ComponentParent-march-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ComponentParent-march-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 8px;
+  font-size: 14px;
+  color: #6b7280;
+}
+.ComponentParent-amenties-parent,
+.ComponentParent-frame-wrapper3 {
+  max-width: 100%;
+}
+.ComponentParent-amenties-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 23px;
+}
+.ComponentParent-frame-wrapper3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 27px;
+  box-sizing: border-box;
+}
+.ComponentParent-frame-wrapper2,
+.ComponentParent-reviews-parent-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.ComponentParent-reviews-parent-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 23px;
+}
+.ComponentParent-frame-wrapper2 {
+  flex: 1;
+  align-items: flex-start;
+  padding: 9px 0 0;
+  box-sizing: border-box;
+}
+.ComponentParent-availabilities-calendar-child-child {
+  width: 384px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e5e7eb;
+  box-sizing: border-box;
+  height: 796px;
+  display: none;
+  max-width: 100%;
+}
+.ComponentParent-from {
+  position: relative;
+  z-index: 1;
+}
+.ComponentParent-reviews-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 3px;
+}
+.ComponentParent-component-group {
+  font-size: 28px;
+  font-weight: 800;
+  color: #f15a29;
+  white-space: nowrap;
+}
+.ComponentParent-component-group,
+.ComponentParent-night {
+  position: relative;
+  z-index: 1;
+}
+.ComponentParent-night-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 5px;
+}
+.ComponentParent-february-container,
+.ComponentParent-january-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.ComponentParent-february-container {
+  align-items: flex-end;
+  gap: 6px;
+}
+.ComponentParent-january-container {
+  align-self: stretch;
+  height: 42px;
+  align-items: flex-start;
+  padding: 0 3px;
+  box-sizing: border-box;
+  color: #111827;
+}
+.ComponentParent-check-in {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.ComponentParent-frame-child2 {
+  height: 48px;
+  width: 342px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1.5px solid #d1d5db;
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.ComponentParent-ellipse-shape {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.ComponentParent-calendar-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.ComponentParent-check-in-parent,
+.ComponentParent-group-div {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.ComponentParent-group-div {
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1.5px solid #d1d5db;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 11px 14px 13px 12px;
+  gap: 20px;
+  z-index: 1;
+  color: #111827;
+}
+.ComponentParent-check-in-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.ComponentParent-check-out {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.ComponentParent-check-out-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 3px;
+}
+.ComponentParent-frame-child3 {
+  height: 48px;
+  width: 342px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1.5px solid #d1d5db;
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.ComponentParent-calendar-icon1,
+.ComponentParent-text4 {
+  position: relative;
+  z-index: 1;
+}
+.ComponentParent-text4 {
+  font-weight: 500;
+}
+.ComponentParent-calendar-icon1 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ComponentParent-availability-calendar,
+.ComponentParent-rectangle-parent1 {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.ComponentParent-rectangle-parent1 {
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1.5px solid #d1d5db;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 11px 14px 13px 12px;
+  gap: 20px;
+  z-index: 1;
+  color: #111827;
+}
+.ComponentParent-availability-calendar {
+  height: 86px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.ComponentParent-choose-extra-serivice {
+  z-index: 1;
+}
+.ComponentParent-choose-extra-serivice,
+.ComponentParent-rafting1 {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-text6 {
+  width: 84px;
+  border-radius: 10px;
+  background-color: #f15a29;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.ComponentParent-exotic-food1 {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-icon1,
+.ComponentParent-text-parent {
+  display: flex;
+  flex-direction: row;
+}
+.ComponentParent-icon1 {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 14px 15px 17px;
+  white-space: nowrap;
+  z-index: 1;
+  color: #6b7280;
+}
+.ComponentParent-text-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.ComponentParent-bbq1 {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-div5 {
+  width: 66px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.ComponentParent-breakfast1 {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-div6 {
+  flex: 1;
+  border-radius: 10px;
+  background-color: #f15a29;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  z-index: 1;
+  color: #fff;
+}
+.ComponentParent-frame-parent10,
+.ComponentParent-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ComponentParent-group {
+  width: 174px;
+  flex-direction: row;
+  gap: 8px;
+  color: #6b7280;
+}
+.ComponentParent-frame-parent10 {
+  flex: 1;
+  flex-direction: column;
+  gap: 13px;
+  min-width: 135px;
+}
+.ComponentParent-pick-and-drop1 {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-frame {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 14px 15px 17px;
+  white-space: nowrap;
+  z-index: 1;
+  color: #6b7280;
+}
+.ComponentParent-frame-parent9,
+.ComponentParent-scroll-bar1,
+.ComponentParent-text5 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ComponentParent-scroll-bar1 {
+  flex-direction: row;
+  gap: 8px;
+  color: #fff;
+}
+.ComponentParent-frame-parent9,
+.ComponentParent-text5 {
+  flex-direction: column;
+  gap: 17px;
+}
+.ComponentParent-frame-parent9 {
+  padding: 0 2px 0 1px;
+  box-sizing: border-box;
+  gap: 7px;
+  max-width: 100%;
+}
+.ComponentParent-billing {
+  font-weight: 600;
+}
+.ComponentParent-billing,
+.ComponentParent-break-fast,
+.ComponentParent-nights,
+.ComponentParent-rafting2,
+.ComponentParent-service-fee {
+  position: relative;
+  z-index: 1;
+}
+.ComponentParent-nights-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.ComponentParent-div10,
+.ComponentParent-div7,
+.ComponentParent-div8,
+.ComponentParent-div9 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.ComponentParent-container {
+  width: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.ComponentParent-text8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.ComponentParent-scroll-bar-vertical-child {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ComponentParent-b,
+.ComponentParent-scroll-bar-vertical-child,
+.ComponentParent-subtotal {
+  position: relative;
+  z-index: 1;
+}
+.ComponentParent-b {
+  font-size: 28px;
+  white-space: nowrap;
+}
+.ComponentParent-subtotal-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.ComponentParent-scroll-bar-vertical,
+.ComponentParent-text7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ComponentParent-scroll-bar-vertical {
+  height: 46px;
+  gap: 11px;
+}
+.ComponentParent-text7 {
+  padding: 0 1px 0 0;
+  gap: 17px;
+}
+.ComponentParent-frame-child4 {
+  height: 48px;
+  width: 342px;
+  position: relative;
+  border-radius: 10px;
+  background: linear-gradient(95.31deg, #56bbff, #5bf 0.01%, #061beb);
+  display: none;
+  max-width: 100%;
+}
+.ComponentParent-book {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.ComponentParent-rectangle-parent2 {
+  align-self: stretch;
+  border-radius: 10px;
+  background: linear-gradient(95.31deg, #56bbff, #5bf 0.01%, #061beb);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 23px 14px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+  font-size: 16px;
+  color: #fff;
+}
+.ComponentParent-availabilities-calendar-child,
+.ComponentParent-frame-parent3 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.ComponentParent-availabilities-calendar-child {
+  width: 384px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e5e7eb;
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: center;
+  padding: 14px 17px 49px 19px;
+  gap: 33px;
+  min-width: 384px;
+  font-size: 14px;
+}
+.ComponentParent-frame-parent3 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 32px;
+}
+.ComponentParent-hair-dryer {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-component-group1 {
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 14px 15px 17px;
+  white-space: nowrap;
+}
+.ComponentParent-iron {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-component-group2 {
+  width: 61px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-tv {
+  position: relative;
+  font-weight: 600;
+}
+.ComponentParent-component-group3 {
+  width: 51px;
+  border-radius: 10px;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.ComponentParent-yaroslove-k-profile-picture,
+.ComponentParent-yaroslove-k-profile-picture-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ComponentParent-yaroslove-k-profile-picture {
+  gap: 8px;
+}
+.ComponentParent-yaroslove-k-profile-picture-wrapper {
+  padding: 0 31px;
+  font-size: 14px;
+  color: #6b7280;
+}
+.ComponentParent-component-parent,
+.ComponentParent-frame-parent2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.ComponentParent-frame-parent2 {
+  width: 1247px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.ComponentParent-component-parent {
+  width: 1409px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+}
+@media screen and (max-width: 1125px) {
+  .ComponentParent-march-container {
+    flex-wrap: wrap;
+  }
+  .ComponentParent-availabilities-calendar-child {
+    flex: 1;
+  }
+  .ComponentParent-frame-parent3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .ComponentParent-reviews {
+    display: none;
+  }
+  .ComponentParent-reviews-wrapper {
+    width: 0;
+  }
+  .ComponentParent-parent {
+    flex-wrap: wrap;
+  }
+  .ComponentParent-frame-wrapper2 {
+    min-width: 100%;
+  }
+  .ComponentParent-availabilities-calendar-child {
+    padding-top: 20px;
+    padding-bottom: 32px;
+    box-sizing: border-box;
+  }
+  .ComponentParent-frame-parent3 {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ComponentParent-frame-parent6,
+  .ComponentParent-frame-parent8 {
+    flex-wrap: wrap;
+  }
+  .ComponentParent-component-group {
+    font-size: 22px;
+  }
+  .ComponentParent-scroll-bar1,
+  .ComponentParent-text8 {
+    flex-wrap: wrap;
+  }
+  .ComponentParent-b {
+    font-size: 22px;
+  }
+  .ComponentParent-subtotal-parent {
+    flex-wrap: wrap;
+  }
+  .ComponentParent-scroll-bar-vertical {
+    height: auto;
+  }
+  .ComponentParent-availabilities-calendar-child {
+    gap: 16px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}

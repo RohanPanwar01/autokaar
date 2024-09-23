@@ -1,0 +1,54 @@
+
+
+
+/* For the form */
+.form-control {
+    background: linear-gradient(#2E3192, #1BFFFF);
+  }
+  
+  /* Logo Styling */
+  .logo1 {
+    width: 100%; /* Make it more responsive */
+    height: auto; /* aakashEnsure proper scaling */
+  }
+  
+  /* Header Styling */
+  .header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between; /* Ensure space between elements */
+    align-items: center; /* Vertically center elements */
+    padding: 10px 20px; /* Add padding for spacing */
+  }
+  
+  /* Mobile Menu Button */
+  .mobile_btn {
+    display: none; /* Hide it by default */
+    font-size: 24px; /* Adjust button size */
+    color: white; /* Make it stand out */
+  }
+  
+  /* Media Queries for smaller screens */
+  @media (max-width: 576px) {
+    .mobile_btn {
+      display: inline-block; /* Show on mobile */
+    }
+  
+    .header {
+      padding: 10px; /* Adjust padding for smaller screens */
+    }
+  
+    .logo1 {
+      width: 60%; /* Adjust logo width */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .logo1 {
+      text-align: left;
+      width: 50%;
+      display: block; /* Change to block for smaller screens */
+    }
+  }
+  
+

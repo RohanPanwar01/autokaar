@@ -1,0 +1,102 @@
+
+
+
+/* .InvoiceDetailscontainer{
+
+
+margin-top:8%;
+    margin-left: 22.2%;
+    background-color:white;
+    border-radius: 10px;
+    height: 100%;
+    width:77%;
+
+    
+    
+    padding: 10px 10px 20px 10px ;
+} */
+/* .InvoiceDetailscontainer2{
+  di
+} */
+.InvoiceDetailsWrapper {
+  /* margin-top:10%; */
+  display: flex;
+  justify-content: space-between;
+  /* background-color: white; */
+  margin-top:8%;
+    margin-left: 22.2%;
+    background-color:white;
+    border-radius: 10px;
+    height: 100%;
+    width:77%;
+
+    
+    /* display: flex; */
+    padding: 10px 10px 20px 10px ;
+  
+}
+
+.InvoiceDetailscontainer,
+.InvoiceDetailscontainer2 {
+  width: 50%; /* Adjust the width as needed */
+}
+.InvoiceDetailscontainer2{
+  margin-left: 57%;
+}
+
+/* styles.css */
+
+.InvoiceDetailsTable {
+  width: 77%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-left: 22.2%;
+background-color: white;
+border-radius: 10px;
+}
+
+
+/* .InvoiceDetailsthead{
+  background-color: #f2f2f2;
+ 
+} */
+
+.InvoiceDetailsthtd {
+  /* border: 1px solid #dddddd; */
+  
+  text-align: left;
+  padding: 8px;
+}
+.InvoiceDetailsthead{
+  background-color: black;
+  color: white;
+}
+/* .InvoiceDetailstr:nth-child(even) {
+  background-color: #f9f9f9;
+} */
+@media (max-width:480px){
+  .InvoiceDetailscontainerMain{
+    margin-left: 0;
+    width: 100%;
+  }
+  .InvoiceDetailsWrapper {
+    margin-left: 0;
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .InvoiceDetailscontainer2{
+    margin-left: 0;
+  }
+  .InvoiceDetailscontainer2 h2{
+    font-size: 16px;
+  }
+  .InvoiceDetailsTable{
+    margin-left: 0;
+    width: 100%;
+    overflow: scroll;
+  }
+  .InvoiceDetailsTable th{
+    font-size: 12px;
+  }
+}

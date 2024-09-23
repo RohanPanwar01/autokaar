@@ -1,0 +1,66 @@
+/* PDFViewer.PdfViewer-css */
+.PdfViewer-pdf-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+
+    
+  }
+  
+  .PdfViewer-pdf {
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid #f10808;
+    width: 100%;
+    height: 150px;
+    box-sizing: content-box;
+    background-repeat: no-repeat;
+    background-image: url(../../../public/assets/img/Group.png);
+    background-color: aliceblue;
+  }
+  
+  .PdfViewer-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+  }
+  
+  .PdfViewer-pdf-viewer {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 50%;
+    /* background: #fff; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .PdfViewer-pdf-viewer iframe {
+    width: 100%;
+    height: 100%;
+  }
+  .PdfViewer-pdf-viewer-centered {
+    position: fixed;
+    top: 55%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+    /* z-index: 1000; */
+    background-color: white;
+    width: 70%; /* Adjust the width as needed */
+    height: 80%; /* Adjust the height as needed */
+    box-shadow: 0 0 10px rgba(9, 119, 209, 0.5);
+  }
+  
+  /* .PdfViewer-overlay { */
+
+  

@@ -1,0 +1,139 @@
+/* Main container */
+.DeclinedPropertiescontainer {
+  margin-top: 8%;
+  margin-left: 23.2%;
+  background-color: white;
+  border-radius: 10px;
+  height: 100%;
+  width: 75%;
+  padding: 10px 10px 20px 10px;
+}
+
+/* Flex column container */
+.content222 {
+  flex-direction: column;
+  display: flex;
+}
+
+/* Table */
+.DeclinedProperties-Table {
+  margin-top: 5%;
+  margin-left: 2%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 98.5%;
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.DeclinedPropertiesbutton > button:hover {
+  color: white;
+}
+
+.DeclinedPropertiesbutton > button {
+  width: auto;
+  margin-left: 15px;
+  gap: 20px;
+  justify-content: center;
+}
+
+.DeclinedPropertiesTH,
+.DeclinedPropertiesTH {
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+  padding-right: 40px;
+}
+
+.DeclinedPropertiestr {
+  background-color: black;
+  color: white;
+}
+
+.DeclinedPropertiestr:nth-child(even) {
+  background-color: #dddddd;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.DeclinedPropertiesbutton > button {
+  background: none;
+  border: none;
+}
+
+/* Edit Container */
+.DeclinedUserEditContainer {
+  position: absolute;
+  width: 50%;
+  height: 95%;
+  overflow: hidden auto;
+  top: 65%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(100deg, rgb(0, 247, 255), blue);
+  padding: 0px 20px 0px 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px black;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1200px) {
+  .DeclinedPropertiescontainer {
+      margin-left: 20%;
+      width: 80%;
+  }
+  .DeclinedUserEditContainer {
+      width: 60%;
+      height: 90%;
+  }
+  .DeclinedProperties-Table {
+      width: 98%;
+  }
+}
+
+@media (max-width: 992px) {
+  .DeclinedPropertiescontainer {
+      margin-left: 10%;
+      width: 85%;
+  }
+  .DeclinedUserEditContainer {
+      width: 70%;
+      height: 85%;
+  }
+  .DeclinedProperties-Table {
+      width: 97%;
+  }
+}
+
+@media (max-width: 768px) {
+  .DeclinedPropertiescontainer {
+      margin-left: 5%;
+      width: 90%;
+  }
+  .DeclinedUserEditContainer {
+      width: 80%;
+      height: 80%;
+  }
+  .DeclinedProperties-Table {
+      width: 95%;
+  }
+}
+
+@media (max-width: 576px) {
+  .DeclinedPropertiescontainer {
+      margin-left: 0;
+      width: 100%;
+      overflow: scroll;
+  }
+  .DeclinedUserEditContainer {
+      width: 90%;
+      height: 75%;
+      top: 50%;
+      left: 50%;
+  }
+  .DeclinedProperties-Table {
+      width: 93%;
+  }
+}

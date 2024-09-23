@@ -1,0 +1,102 @@
+/* Sidebar */
+.sidebar {
+  
+  height: 100%;
+  padding-bottom: 80px;
+  /* width: 21%; */
+  position: fixed;
+  /* margin-top: 20%; */
+  /* margin-left:0%; */
+  
+  background-color: #fff;
+  transition: width 0.3s ease;
+  overflow-x: hidden;
+  z-index: 1000;
+
+}
+
+
+
+
+/* Sidebar inner */
+.sidebar-inner {
+  height: 10px;
+  overflow: hidden auto;
+  width: 100%;
+}
+
+/* Dashboard */
+.Dashboard {
+  margin-left: 20px;
+  font-size: 30px;
+  font-weight: 500;
+  color: black;
+}
+
+.Dashboard:hover {
+  color: black;
+  background: -webkit-linear-gradient(20deg, #1BFFFF, blue);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1200px) {
+  .sidebar {
+      width: 25%;
+  }
+  .Dashboard {
+      font-size: 28px;
+  }
+}
+
+@media (max-width: 992px) {
+  .sidebar {
+      width: 30%;
+  }
+  .Dashboard {
+      font-size: 26px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+      width: 35%;
+  }
+  .Dashboard {
+      font-size: 24px;
+  }
+}
+
+@media (max-width: 576px) {
+  .sidebar {
+       width: 50%; 
+      /* width: 0; */
+      height: 100%;
+      position: fixed;
+      margin-top: 6%;
+      margin-left: 0%;
+      transition: 0.3s;
+  }
+  .sidebar.open {
+    width: 75%; /* Slide in for smaller screens */
+  }
+  .Dashboard {
+      font-size: 22px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sidebar {
+      width: 0%; 
+     /* width: 0; */
+     height:100%;
+     position: fixed;
+     margin-top: 0%;
+     margin-left: 0%;
+     transition: 0.3s;
+  }
+  .Dashboard {
+      font-size: 20px;
+  }
+}

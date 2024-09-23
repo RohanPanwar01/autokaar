@@ -1,0 +1,133 @@
+/* Main container */
+.ReviewedPropertiescontainer {
+  margin-top: 8%;
+  margin-left: 23.2%;
+  background-color: white;
+  border-radius: 10px;
+  height: 100%;
+  width: 75%;
+  padding: 10px 10px 20px 10px;
+}
+
+/* Table */
+.ReviewedProperties-Table {
+  margin-top: 5%;
+  margin-left: 2%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 98.5%;
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ReviewedPropertiesbutton > button:hover {
+  color: white;
+}
+
+.ReviewedPropertiesbutton > button {
+  width: auto;
+  margin-left: 15px;
+  gap: 20px;
+  justify-content: center;
+}
+
+.ReviewedPropertiesTH,
+.ReviewedPropertiesTH {
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+  padding-right: 40px;
+}
+
+.ReviewedPropertiestr {
+  background-color: black;
+  color: white;
+}
+
+.ReviewedPropertiestr:nth-child(even) {
+  background-color: #dddddd;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.ReviewedPropertiesbutton > button {
+  background: none;
+  border: none;
+}
+
+/* Edit Container */
+.ReviewedEditContainer {
+  position: absolute;
+  width: 50%;
+  height: 95%;
+  overflow: hidden auto;
+  top: 65%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(100deg, rgb(0, 247, 255), blue);
+  padding: 0px 20px 0px 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px black;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1200px) {
+  .ReviewedPropertiescontainer {
+      margin-left: 20%;
+      width: 80%;
+  }
+  .ReviewedEditContainer {
+      width: 60%;
+      height: 90%;
+  }
+  .ReviewedProperties-Table {
+      width: 98%;
+  }
+}
+
+@media (max-width: 992px) {
+  .ReviewedPropertiescontainer {
+      margin-left: 10%;
+      width: 85%;
+  }
+  .ReviewedEditContainer {
+      width: 70%;
+      height: 85%;
+  }
+  .ReviewedProperties-Table {
+      width: 97%;
+  }
+}
+
+@media (max-width: 768px) {
+  .ReviewedPropertiescontainer {
+      margin-left: 5%;
+      width: 90%;
+  }
+  .ReviewedEditContainer {
+      width: 80%;
+      height: 80%;
+  }
+  .ReviewedProperties-Table {
+      width: 95%;
+  }
+}
+
+@media (max-width: 576px) {
+  .ReviewedPropertiescontainer {
+      margin-left: 0;
+      width:100%;
+      overflow: scroll;
+  }
+  .ReviewedEditContainer {
+      width: 90%;
+      height: 75%;
+      top: 50%;
+      left: 50%;
+  }
+  .ReviewedProperties-Table {
+      width: 93%;
+  }
+}
